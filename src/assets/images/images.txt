@@ -1,0 +1,3 @@
+HERO_BG=https://loremflickr.com/1600/900/law,office
+FEATURE_DOC=https://loremflickr.com/1600/900/document,signature
+PROOF_SUCCESS=https://loremflickr.com/1600/900/smile,success

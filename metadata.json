@@ -1,0 +1,6 @@
+{
+  "name": "개인회생파산 무료지원센터",
+  "description": "감당하기 힘든 빚에서 벗어나 새로운 시작을 할 수 있도록 최대 90% 채무 탕감 및 합법적 조정을 돕는 비공개 무료 상담 및 AI 채무 진단 서비스입니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
